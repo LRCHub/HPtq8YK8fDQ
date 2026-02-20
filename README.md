@@ -1,4 +1,4 @@
-# キタニタツヤ – 青のすみか (Live in Blue) / キタニタツヤ - Where Our Blue Is (Live in Blue) / Tatsuya Kitani
+# キタニタツヤ – 青のすみか (From 'THE FIRST TAKE')
 
 > **歌詞登録ステータス：同期歌詞あり**
 
