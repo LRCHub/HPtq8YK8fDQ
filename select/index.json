@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "base_track": "青のすみか (Live in Blue) / キタニタツヤ - Where Our Blue Is (Live in Blue) / Tatsuya Kitani",
+  "base_track": "青のすみか (From 'THE FIRST TAKE')",
   "base_artist": "キタニタツヤ",
-  "createdAt": "2026-02-07T09:06:28.211040Z",
+  "createdAt": "2026-02-20T15:56:27.133506Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -39,10 +39,10 @@
     {
       "id": "lrclib_5",
       "source": "lrclib",
-      "title": "青のすみか - Where Our Blue Is",
+      "title": "青のすみか - From THE FIRST TAKE",
       "artist": "Tatsuya Kitani",
       "has_synced": true,
-      "path": "select/05_青のすみか_-_Where_Our_Blue_Is_Tatsuya_Kitani.lrc"
+      "path": "select/05_青のすみか_-_From_THE_FIRST_TAKE_Tatsuya_Kitani.lrc"
     },
     {
       "id": "lrclib_6",
@@ -55,10 +55,10 @@
     {
       "id": "lrclib_7",
       "source": "lrclib",
-      "title": "青のすみか - Where Our Blue Is",
+      "title": "青のすみか",
       "artist": "Tatsuya Kitani",
       "has_synced": true,
-      "path": "select/07_青のすみか_-_Where_Our_Blue_Is_Tatsuya_Kitani.lrc"
+      "path": "select/07_青のすみか_Tatsuya_Kitani.lrc"
     },
     {
       "id": "lrclib_8",
@@ -71,10 +71,10 @@
     {
       "id": "lrclib_9",
       "source": "lrclib",
-      "title": "青のすみか",
+      "title": "青のすみか - Where Our Blue Is",
       "artist": "Tatsuya Kitani",
       "has_synced": true,
-      "path": "select/09_青のすみか_Tatsuya_Kitani.lrc"
+      "path": "select/09_青のすみか_-_Where_Our_Blue_Is_Tatsuya_Kitani.lrc"
     },
     {
       "id": "lrclib_10",
@@ -87,10 +87,10 @@
     {
       "id": "lrclib_11",
       "source": "lrclib",
-      "title": "青のすみか - From THE FIRST TAKE",
+      "title": "青のすみか - Where Our Blue Is",
       "artist": "Tatsuya Kitani",
       "has_synced": true,
-      "path": "select/11_青のすみか_-_From_THE_FIRST_TAKE_Tatsuya_Kitani.lrc"
+      "path": "select/11_青のすみか_-_Where_Our_Blue_Is_Tatsuya_Kitani.lrc"
     },
     {
       "id": "petitlyrics_1",
